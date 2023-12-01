@@ -32,7 +32,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
   mastodon: 
     - username: faberfedor
-    - instance: foo.mastodon.social
+    - instance: mastodon.social
 
 
 
